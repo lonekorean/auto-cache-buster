@@ -9,7 +9,7 @@ I came up with this while working in an environment with very aggressive server-
 
 ###Solution
 
-This script works by intercepting the `F5` and `CRL + R` key presses. It then updates the URL by adding the current timestamp to the query string, creating a unique URL that is not cached.
+This script works by intercepting the `F5` and `ctrl + r` key presses. It then updates the URL by adding the current timestamp to the query string, creating a unique URL that is not cached.
 
 ###Usage
 
